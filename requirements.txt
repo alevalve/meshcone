@@ -1,6 +1,0 @@
-torch
-git+https://github.com/facebookresearch/pytorch3d.git
-matplotlib
-tqdm
-numpy
-cvxpy
