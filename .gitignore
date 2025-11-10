@@ -1,4 +1,66 @@
+# Data directories
+datahandler/
+meshes/
 
-/data1/alex/convmesh/datahandler
-/data1/alex/convmesh/meshes
-/data1/alex/convmesh/tri_metrics.csv
+# CSV files
+tri_metrics.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.bbl
+*.blg
+
+# Model files (if you want to ignore large mesh files)
+*.obj
+*.stl
+*.ply
+
+# Logs
+*.log
+logs/
