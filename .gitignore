@@ -4,6 +4,7 @@ meshes/
 
 # CSV files
 tri_metrics.csv
+metrics_001.csv
 
 # Python
 __pycache__/
