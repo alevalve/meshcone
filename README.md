@@ -28,9 +28,6 @@ python main.py \
 - `num_samples`: Sample points from target (default: 1000)
 - `device`: cpu or cuda (default: cuda)
 
-## License 
-
-MIT 
 
 ## Author
 
