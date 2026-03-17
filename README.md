@@ -2,6 +2,8 @@
 
 Mesh generation using convex optimization through a set of linear constraints and conic solvers on ShapeNetV2.
 
+Developed a mesh reconstruction pipeline using convex optimization and conic solvers. Formulated an energy function to minimize vertex and edge discrepancies between raw and ground truth meshes, enabling the successful recovery of heavily damaged meshes while preserving exact boundary conditions.
+
 ## Installation
 
 ```bash
